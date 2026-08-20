@@ -206,7 +206,7 @@ def print_banner(tick=0):
     color = rgb_color(tick)
     reset = Style.RESET_ALL
     
-    title = gradient_text("ARLEN -OTP", tick, 0)
+    title = gradient_text("XNXX -OTP", tick, 0)
     
     banner = f"""
   ┌──────────────────────────────────────────────────────┐
