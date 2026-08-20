@@ -214,7 +214,7 @@ def print_banner(tick=0):
   └──────────────────────────────────────────────────────┘
 
   ┌──────────────────────────────────────────────────────┐
-  │  {color}API{reset}  : 24  │  {color}Version{reset}  : 1.0.0  │  {color}Dev{reset}  : Aldan     │
+  │  {color}API{reset}  : 24  │  {color}Version{reset}  : 1.0.0  │  {color}Dev{reset}  : Xnxx.go.id     │
   └──────────────────────────────────────────────────────┘{reset}
 """
     print(banner)
@@ -573,7 +573,7 @@ def main():
     except KeyboardInterrupt:
         print(f"\n\n{Fore.CYAN}◐ {Fore.WHITE}Keluar...{Style.RESET_ALL}")
         time.sleep(0.5)
-        print(f"{Fore.GREEN}✓ Sampai jumpa! 👋{Style.RESET_ALL}")
+        print(f"{Fore.GREEN}✓ Sampai jumpa! 👋 Dev by : Xnxx.go.id{Style.RESET_ALL}")
         sys.exit(0)
     except Exception as e:
         print(f"\n{Fore.RED}✗ Error: {e}{Style.RESET_ALL}")
